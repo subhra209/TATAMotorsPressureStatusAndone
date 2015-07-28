@@ -1,0 +1,2 @@
+wait 2 sec
+01 10 00 01 00 02 04 FF FF FF FF 33 F7
